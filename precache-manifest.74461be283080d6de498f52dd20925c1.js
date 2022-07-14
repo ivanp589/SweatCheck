@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/SweatCheck/static/media/bg.faeb0f25.png"
   },
   {
-    "revision": "3b13913e22909934ea5a63561e24e5f3",
+    "revision": "4b0ca02a278998478e015da6d26866ae",
     "url": "/SweatCheck/index.html"
   }
 ];
